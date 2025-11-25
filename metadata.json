@@ -1,0 +1,5 @@
+{
+  "name": "BRM5 Mission Command",
+  "description": "A tactical mission planning terminal for Blackhawk Rescue Mission 5, featuring role-based access control and local data persistence.",
+  "requestFramePermissions": []
+}
